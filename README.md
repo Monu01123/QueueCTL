@@ -11,7 +11,7 @@ A **production-grade** CLI-based background job queue system with worker process
 
 ## 🎥 Demo Video
 
-**[Watch the Demo Video Here](https://drive.google.com/your-video-link)**
+**[Watch the Demo Video Here](https://docs.google.com/videos/d/121bA7C2NC2TL2TzJPBHodQkKZaegBfs7r8kHVAgGlSw/edit?usp=sharing)**
 
 *3-minute walkthrough demonstrating all features including priority queues, job cancellation, metrics, and advanced monitoring.*
 
@@ -54,7 +54,7 @@ A **production-grade** CLI-based background job queue system with worker process
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/queuectl.git
+git clone https://github.com/Monu01123/QueueCTL.git
 cd queuectl
 
 # Install dependencies
@@ -546,9 +546,9 @@ MIT License - see [LICENSE](LICENSE) file
 ## 👤 Author
 
 **[Your Name]**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+- GitHub: [@Monu01123](https://github.com/Monu01123)
+- Email: monumeena0112@gmail.com
+- LinkedIn: [Monu Meena](https://linkedin.com/in/monu-meena)
 
 ---
 
