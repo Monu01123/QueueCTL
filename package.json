@@ -1,0 +1,20 @@
+{
+  "name": "queuectl",
+  "version": "1.0.0",
+  "description": "CLI-based background job queue system with retry and DLQ",
+  "main": "src/index.js",
+  "bin": {
+    "queuectl": "./bin/queuectl.js"
+  },
+  "scripts": {
+    "start": "node bin/queuectl.js",
+    "test": "node test/test.js"
+  },
+  "keywords": ["queue", "jobs", "cli", "worker", "background-jobs"],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^11.1.0",
+    "chalk": "^4.1.2"
+  }
+}
